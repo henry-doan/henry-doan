@@ -13,11 +13,10 @@
 <div align="center">
 
 [![website](https://img.shields.io/badge/Website-20BEFF?style=for-the-badge&logo=Netlify&logoColor=white)](https://henry-doan.netlify.app/)
-[![linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](linkedin.com/in/henrydoan)
+[![linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/henrydoan/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:henrydoan96@gmail.com)
 
 </div>
-
 <!-- 
   ```js
     class HenryDoan {
